@@ -1,0 +1,47 @@
+{
+  "name": "aum",
+  "version": "0.0.5",
+  "description": "A minute MVC framework for the browser.",
+  "keywords": [
+    "aum",
+    "mvc"
+  ],
+  "author": {
+    "name": "Chad Joseph Brown",
+    "url": "http://www.chadjoseph.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadjoseph/aum.git"
+  },
+  "dependencies": {
+    "aum-animate": "*",
+    "aum-attribute": "*",
+    "aum-cancel": "*",
+    "aum-cell": "*",
+    "aum-clear": "*",
+    "aum-client": "*",
+    "aum-config": "*",
+    "aum-defer": "*",
+    "aum-dispatch": "*",
+    "aum-document": "*",
+    "aum-each": "*",
+    "aum-history": "*",
+    "aum-href": "*",
+    "aum-id": "*",
+    "aum-listen": "*",
+    "aum-location": "*",
+    "aum-paint": "*",
+    "aum-param": "*",
+    "aum-provide": "*",
+    "aum-queue": "*",
+    "aum-request": "*",
+    "aum-route": "*",
+    "aum-router": "*",
+    "aum-search": "*",
+    "aum-state": "*",
+    "aum-utility": "*",
+    "aum-xhr": "*"
+  }
+}
+
